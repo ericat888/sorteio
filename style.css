@@ -1,0 +1,63 @@
+/*RESET CSS*/
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+}   
+
+img {
+    width: 100%;
+    margin-top: -150px;
+}
+/*FIM DO RESET*/
+
+
+.titulo {
+    color: white;
+    text-align: center;
+    margin-top: -600px;
+    font-family: 'Abril Fatface', cursive;
+    margin-left: 100px;
+    
+}
+
+.max, .min {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#min, #max {
+    background-color: white;
+    width: 200px 200px;
+}
+
+.botao {
+    width: 200px;
+    background-color: white;
+    color: black;
+    font-size: x-large;
+    margin-left: 200px;
+    margin-top: 20px;
+    
+   
+}
+
+#resultado {
+   background-color: black;
+   color: white;
+   font-family: 'Roboto', sans-serif;
+   font-size: x-large;
+   margin-left: 200px;
+
+}
+
+.entradas {
+    margin-left: 200px;
+}
+
+
+
+
+
